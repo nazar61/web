@@ -1,0 +1,35 @@
+div {
+    background-color: #2f00ff;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    
+    display: flex;
+    place-items: center;
+    width: 700px;
+}
+
+div div{
+    background-color: #1f00a8;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    margin: 20px;
+    margin-left: auto;
+    display: grid;
+}
+
+p, a {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+ul {
+    place-items: center;
+}
